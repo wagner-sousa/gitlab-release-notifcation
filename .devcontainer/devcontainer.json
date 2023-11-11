@@ -7,7 +7,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"Codeium.codeium"
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	},

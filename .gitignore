@@ -131,3 +131,6 @@ dist
 
 # Google Apps Script ID
 .clasp.json
+# Compiled files
+public
+build

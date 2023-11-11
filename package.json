@@ -1,0 +1,31 @@
+{
+  "name": "gitlab-release-notification",
+  "version": "1.0.0",
+  "description": "Repositório com utilitários com Google Apps Script ",
+  "main": "index.js",
+  "scripts": {
+    "clasp": "clasp",
+    "login": "clasp login",
+    "push": "clasp push",
+    "pull": "clasp pull"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagner-sousa/gitlab-release-notification.git"
+  },
+  "keywords": [
+    "google",
+    "google-cloud",
+    "google-app-script"
+  ],
+  "author": "Wagner Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagner-sousa/gitlab-release-notification/issues"
+  },
+  "homepage": "https://github.com/wagner-sousa/gitlab-release-notification#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.77"
+  }
+}

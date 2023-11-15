@@ -2,11 +2,18 @@
 _A simple method to send notification reading a feed web_
 
 ## Technologies
+![GitHub repo size](https://img.shields.io/github/repo-size/wagner-sousa/gitlab-release-notification?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/wagner-sousa/gitlab-release-notification?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/wagner-sousa/gitlab-release-notification?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/wagner-sousa/gitlab-release-notification?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/wagner-sousa/gitlab-release-notification?style=for-the-badge)
+
 * [Node](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Google Apps Script](https://developers.google.com/apps-script/) _(You need a Google account)_
 * [Docker](https://www.docker.com/) (optional for local environment)
 * [VS Code](https://code.visualstudio.com/) (optional but recommended for local environment)
+* [CLASP](https://github.com/google/clasp) (library to Google Apps Script)
 
 ## Start Project
 

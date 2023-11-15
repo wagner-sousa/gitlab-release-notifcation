@@ -8,7 +8,8 @@
     "login": "clasp login",
     "push": "clasp push",
     "pull": "clasp pull",
-    "create": "clasp create"
+    "create": "clasp create",
+    "test": "clasp run main"
   },
   "repository": {
     "type": "git",
